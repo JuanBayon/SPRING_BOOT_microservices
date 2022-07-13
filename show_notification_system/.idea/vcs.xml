@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/epcsd-spring-notification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/epcsd-spring-notification-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/epcsd-spring-showcatalog-main" vcs="Git" />
+  </component>
+</project>
